@@ -1,25 +1,29 @@
-# Hi, I'm Sawgat Chettri
+<h1 align="center">Hi, I'm Sawgat Chettri </h1> 
 
- Full-Stack Developer .
+<p align="center">
+   Full-Stack Developer aligned towards Startup
+</p>
+
+## About me
+- Self-taught developer from India
+- Learning by building with TypeScript, React, Next.js, Node.js, PostgreSQL, and Prisma
+- Interested in startup engineering, backend systems, and real product development
+- Currently focused on shipping projects and becoming job-ready
 
 ## Tech Stack
-- TypeScript
-- React
-- Next.js
-- Tailwind CSS
-- Node.js
-- Express
-- PostgreSQL
-- Prisma
-- MongoDB
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,prisma,git,github,vscode" />
+</p>
 
 ## Current Focus
 - Building full-stack projects
 - Improving backend fundamentals
 - Preparing for startup internships
 
-## Links
-- LinkedIn: https://www.linkedin.com/in/sawgat-chhetri/
-- Email: chhetrisawgat54@gmail.com
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-link](https://www.linkedin.com/in/sawgat-chhetri))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chhetrisawgat54@gmail.com)
+
+
 
 
