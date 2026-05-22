@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sawgat Chettri
 
-<!--
-**sawgatio/sawgatio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Full-Stack Developer .
 
-Here are some ideas to get you started:
+## Tech Stack
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
+- Node.js
+- Express
+- PostgreSQL
+- Prisma
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Building full-stack projects
+- Improving backend fundamentals
+- Preparing for startup internships
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/sawgat-chhetri/
+- Email: chhetrisawgat54@gmail.com
+
+
