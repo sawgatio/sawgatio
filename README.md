@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sawgat Chettri </h1> 
+<h1 align="center">Hi, I'm Sawgat </h1> 
 
 <p align="center">
    Full-Stack Developer aligned towards Startup
